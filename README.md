@@ -1,2 +1,2 @@
 # weather_detection
-weather predicton from a image
+weather detection from a image
